@@ -1,4 +1,4 @@
-package catmimigod.sjllibrary;
+package catmimigod.mylibrary;
 
 /**
  * Created by catmi on 2017/8/9.
