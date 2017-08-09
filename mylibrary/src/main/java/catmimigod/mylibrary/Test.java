@@ -1,7 +1,7 @@
 package catmimigod.mylibrary;
 
 /**
- * Created by catmi on 2017/8/9.
+ * Created by CatmimiGod on 2017/8/9.
  */
 
 public class Test {
